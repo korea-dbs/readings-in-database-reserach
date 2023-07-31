@@ -15,6 +15,10 @@ The order of papers are selected for Lab seminar.
 5. [The five-minute rule 30 years later and its impact on the storage hierarchy](Papers/paper5.pdf).
    Appuswamy, Raja and Graefe, Goetz and Borovica-Gajic, Renata and Ailamaki, Anastasia.
    Communications of the ACM 62(11), 2019. [Link](https://doi.org/10.1145/3318163)
+6. [A study of database performance sensitivity to experiment settings](Papers/paper6.pdf).
+   Yang Wang, Miao Yu, Yujie Hui, Fang Zhou, Yuyang Huang, Rui Zhu, Xueyuan Ren, Tianxi Li, and Xiaoyi Lu.
+   Proc. VLDB Endow. 15, 7, 2022. [Link](https://doi.org/10.14778/3523210.3523221)
+   
 
 ## Q&A
 Any suggestions? Please feel free to contact jonghyeok.park@hufs.ac.kr
