@@ -24,6 +24,9 @@ The order of papers are selected for Lab seminar.
 8. [Introducing a Query Acceleration Path for Analytics in SQLite3](Papers/paper8.pdf).
    Martin Prammer, Suryadev Sahadevan Rajesh, Junda Chen, Jignesh M. Patel
    12th Annual Conference on Innovative Data Systems Research (CIDR 2022) [Link](https://www.cidrdb.org/cidr2022/papers/p56-prammer.pdf)
+9. [THE DESIGN OF THE POSTGRES STORAGE SYSTEM](Papers/paper9.pdf).
+   Michael Stonebraker
+   Proceedings of the 13th International Conference on Very Large Data Bases (VLDB 1987) [Link](https://dl.acm.org/doi/10.5555/645914.671639)
 
 ## Q&A
 Any suggestions? Please feel free to contact jonghyeok.park@hufs.ac.kr
