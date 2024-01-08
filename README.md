@@ -18,7 +18,12 @@ The order of papers are selected for Lab seminar.
 6. [A study of database performance sensitivity to experiment settings](Papers/paper6.pdf).
    Yang Wang, Miao Yu, Yujie Hui, Fang Zhou, Yuyang Huang, Rui Zhu, Xueyuan Ren, Tianxi Li, and Xiaoyi Lu.
    Proc. VLDB Endow. 15, 7, 2022. [Link](https://doi.org/10.14778/3523210.3523221)
-   
+7. [Fantastic SSD internals and how to learn and use them](Papers/paper7.pdf).
+   Li, Nanqinqin and Hao, Mingzhe and Li, Huaicheng and Lin, Xing and Emami, Tim and Gunawi, Haryadi S.
+   Proceedings of the 15th ACM International Conference on Systems and Storage (SYSTOR 2022). [Link](https://doi.org/10.1145/3534056.3534940)
+8. [Introducing a Query Acceleration Path for Analytics in SQLite3](Papers/paper8.pdf).
+   Martin Prammer, Suryadev Sahadevan Rajesh, Junda Chen, Jignesh M. Patel
+   12th Annual Conference on Innovative Data Systems Research (CIDR 2022) [Link](https://www.cidrdb.org/cidr2022/papers/p56-prammer.pdf)
 
 ## Q&A
 Any suggestions? Please feel free to contact jonghyeok.park@hufs.ac.kr
