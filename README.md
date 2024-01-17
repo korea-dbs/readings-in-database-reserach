@@ -27,6 +27,10 @@ The order of papers are selected for Lab seminar.
 9. [THE DESIGN OF THE POSTGRES STORAGE SYSTEM](Papers/paper9.pdf).
    Michael Stonebraker
    Proceedings of the 13th International Conference on Very Large Data Bases (VLDB 1987) [Link](https://dl.acm.org/doi/10.5555/645914.671639)
+10.[On the IO Characteristics of the SQLite Transactions](Papers/paper10.pdf).
+   Tuan, Dam Quang and Cheon, Seungyong and Won, Youjip
+   Proceedings of the International Conference on Mobile Software Engineering and Systems (MOBILESoft 2016) [Link](https://dl.acm.org/doi/10.1145/2897073.2897093)
+
 
 ## Q&A
 Any suggestions? Please feel free to contact jonghyeok.park@hufs.ac.kr
