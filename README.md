@@ -30,7 +30,8 @@ The order of papers are selected for Lab seminar.
 10.[On the IO Characteristics of the SQLite Transactions](Papers/paper10.pdf).
    Tuan, Dam Quang and Cheon, Seungyong and Won, Youjip
    Proceedings of the International Conference on Mobile Software Engineering and Systems (MOBILESoft 2016) [Link](https://dl.acm.org/doi/10.1145/2897073.2897093)
-
+11. [2Q: A Low Overhead High Performance Buffer Management Replacement Algorithm](Papers/paper11.pdf). 
+   Theodore Johnson and Dennis Shasha. VLDB 1994. [Link](https://doi/10.5555/645920.672996)
 
 ## Q&A
 Any suggestions? Please feel free to contact jonghyeok.park@hufs.ac.kr
